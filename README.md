@@ -4,7 +4,7 @@ Hi, this is a React Native projet to create a pomodoro counter.
 
 This application has 3 timers: 25 minutes, 15 minutes and 5 minutes.
 
-Each timer has its own background to make it different from the other.
+Each timer has its own background to make it different from the others.
 
 If you click start button, and you start counting. If you click stop, it will stop couting. If you want to reset the couters, just click on the timer (25, 15 or 5 minutes)
 
